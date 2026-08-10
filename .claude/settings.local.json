@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/cookc/Desktop/**)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
